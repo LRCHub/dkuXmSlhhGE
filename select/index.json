@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Into the Light",
+  "base_artist": "yosumi",
+  "createdAt": "2026-02-18T12:34:19.378974Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Into the Light",
+      "artist": "Tomcraft",
+      "has_synced": false,
+      "path": "select/01_Into_the_Light_Tomcraft.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Step into the Light",
+      "artist": "The Clientele",
+      "has_synced": false,
+      "path": "select/02_Step_into_the_Light_The_Clientele.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Into the Light",
+      "artist": "Siouxsie & The Banshees",
+      "has_synced": true,
+      "path": "select/03_Into_the_Light_Siouxsie_&_The_Banshees.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Into The Light",
+      "artist": "Siouxsie And The Banshees",
+      "has_synced": true,
+      "path": "select/04_Into_The_Light_Siouxsie_And_The_Banshees.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Into the Light (John Peel session 10.2.81)",
+      "artist": "Siouxsie & The Banshees",
+      "has_synced": false,
+      "path": "select/05_Into_the_Light_(John_Peel_session_10.2.81)_Siouxsie_&_The_Banshees.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Into the Light (John Peel session 10.2.81)",
+      "artist": "Siouxsie and the Banshees",
+      "has_synced": false,
+      "path": "select/06_Into_the_Light_(John_Peel_session_10.2.81)_Siouxsie_and_the_Banshees.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Into The Light",
+      "artist": "Papa Roach",
+      "has_synced": true,
+      "path": "select/07_Into_The_Light_Papa_Roach.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Into the Light",
+      "artist": "Edenbridge",
+      "has_synced": false,
+      "path": "select/08_Into_the_Light_Edenbridge.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Into the Light",
+      "artist": "Visions of Atlantis",
+      "has_synced": true,
+      "path": "select/09_Into_the_Light_Visions_of_Atlantis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Into the Light",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/10_Into_the_Light_Prince.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Back Into the Light",
+      "artist": "Iron Savior",
+      "has_synced": true,
+      "path": "select/11_Back_Into_the_Light_Iron_Savior.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Into the Light",
+      "artist": "Masterplan",
+      "has_synced": true,
+      "path": "select/12_Into_the_Light_Masterplan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Into the Light",
+      "artist": "Rage",
+      "has_synced": false,
+      "path": "select/13_Into_the_Light_Rage.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Into the Light (Live in Tokyo)",
+      "artist": "Rage",
+      "has_synced": false,
+      "path": "select/14_Into_the_Light_(Live_in_Tokyo)_Rage.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lead Us into the Light",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/15_Lead_Us_into_the_Light_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fall into the Light",
+      "artist": "Dream Theater",
+      "has_synced": false,
+      "path": "select/16_Fall_into_the_Light_Dream_Theater.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Fall Into the Light",
+      "artist": "Dream Theater",
+      "has_synced": true,
+      "path": "select/17_Fall_Into_the_Light_Dream_Theater.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Gaze Into the Light",
+      "artist": "Zen",
+      "has_synced": false,
+      "path": "select/18_Gaze_Into_the_Light_Zen.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Into the Light",
+      "artist": "yosumi",
+      "has_synced": false,
+      "path": "select/pl_01_Into_the_Light_yosumi.txt"
+    }
+  ]
+}
